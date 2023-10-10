@@ -15,7 +15,7 @@ A folder named "RUN9" should be created and placed in the same directory as clPy
 More information about the functioning of the SFERE model can be found in:
 - The manuscript (van de Vijsel et al. 2023, Nature Communications)
 - Commented lines in the model scripts (clPy.ComplexChannelPatterns_Fig1f_RUN9.ipynb and HydroFunctions_iPy.cl) themselves
-- The full dataset and its readme file, underlying the manuscript (van de Vijsel et al. 2023, Nature Communications). This dataset can be found via https://doi.org/10.25850/nioz/7b.b.cd.
+- The full dataset and its readme file, underlying the manuscript (van de Vijsel et al. 2023, Nature Communications). This dataset can be found via https://doi.org/10.4121/8d361887-ec02-4472-a8eb-a9d0f3eacfd6.
 
 ## References
 van de Vijsel, R.C., van Belzen, J., Bouma, T.J., van der Wal, D., Borsje, B.W., Temmerman, S., Cornacchia, L., Gourgue, O., van de Koppel, J. (2023, Nature Communications). Vegetation controls on channel network complexity in coastal wetlands.
