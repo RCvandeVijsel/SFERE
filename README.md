@@ -18,4 +18,4 @@ More information about the functioning of the SFERE model can be found in:
 - The full dataset and its readme file, underlying the manuscript (van de Vijsel et al. 2023, Nature Communications). This dataset can be found via https://doi.org/10.4121/8d361887-ec02-4472-a8eb-a9d0f3eacfd6.
 
 ## References
-van de Vijsel, R.C., van Belzen, J., Bouma, T.J., van der Wal, D., Borsje, B.W., Temmerman, S., Cornacchia, L., Gourgue, O., van de Koppel, J. (2023, Nature Communications). Vegetation controls on channel network complexity in coastal wetlands.
+van de Vijsel, R.C., van Belzen, J., Bouma, T.J., van der Wal, D., Borsje, B.W., Temmerman, S., Cornacchia, L., Gourgue, O., van de Koppel, J. Vegetation controls on channel network complexity in coastal wetlands. Nature Commununications 14, 7158 (2023). https://doi.org/10.1038/s41467-023-42731-3.
