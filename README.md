@@ -12,7 +12,7 @@ This script contains functions (e.g., derivatives and boundary conditions) which
 A folder named "RUN9" should be created and placed in the same directory as clPy.ComplexChannelPatterns_Fig1f_RUN9.ipynb and HydroFunctions_iPy.cl. The model results are stored in this folder.
 
 ![SupplFig2_dpi=250](https://github.com/RCvandeVijsel/SFERE/assets/130892539/54ec43a5-d2a1-48a6-ac18-43fd80ae0f91)
-Supplementary Fig. 2 (van de Vijsel et al. 2023) shows channel network development in the default configuration of SFERE (with vegetation, right column), and idem without vegetation dynamics (left column). Vegetation clearly increases the extent and complexity of channel networks.
+Supplementary Fig. 2 (van de Vijsel et al. 2023) shows channel network development in the default configuration of SFERE (with vegetation, right column), and without vegetation dynamics (left column). Vegetation clearly increases the extent and complexity of channel networks.
 
 ## More information
 More information about the functioning of the SFERE model can be found in:
