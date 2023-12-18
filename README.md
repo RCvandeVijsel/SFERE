@@ -20,4 +20,5 @@ More information about the functioning of the SFERE model can be found in:
 ## References
 van de Vijsel, R.C., van Belzen, J., Bouma, T.J., van der Wal, D., Borsje, B.W., Temmerman, S., Cornacchia, L., Gourgue, O., van de Koppel, J. Vegetation controls on channel network complexity in coastal wetlands. Nature Commununications 14, 7158 (2023). https://doi.org/10.1038/s41467-023-42731-3.
 
-[SupplFig2_dpi=300.pdf](https://github.com/RCvandeVijsel/SFERE/files/13704356/SupplFig2_dpi.300.pdf)
+![SupplFig2_dpi=250](https://github.com/RCvandeVijsel/SFERE/assets/130892539/54ec43a5-d2a1-48a6-ac18-43fd80ae0f91)
+Supplementary Fig. 2 (van de Vijsel et al. 2023) shows channel network development in the default configuration of SFERE (with vegetation, right column), and idem without vegetation dynamics (left column). Vegetation clearly increases the extent and complexity of channel networks.
